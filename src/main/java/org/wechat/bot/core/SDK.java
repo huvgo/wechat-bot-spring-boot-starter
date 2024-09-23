@@ -1,4 +1,4 @@
-package org.wechat.bot;
+package org.wechat.bot.core;
 
 import com.sun.jna.Library;
 import com.sun.jna.Native;
